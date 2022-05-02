@@ -16,7 +16,7 @@ const Footer = () => {
           <p>Advanced React Website 2345, All Rights Reserved</p>
         </div>
         <div className='react_footer-links_div'>
-          <h4>Links</h4>
+          <h4>Last Links</h4>
           <p>Overons</p>
           <p>Social Media</p>
           <p>Counters</p>
@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
         <div className='react_footer-links_div'>
           <h4>Get in Touch</h4>
-          <p>Crechterwoord K12 182 DK Alknjkcb</p>
+          <p>Crechterwoord K12 182 DKs</p>
           <p>3512324702</p>
           <p>info@payme.net</p>
         </div>
