@@ -36,7 +36,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='react_footer-copyright'>
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2022-Facundo Gomez. All rights reserved.</p>
       </div>
     </div>
   )
