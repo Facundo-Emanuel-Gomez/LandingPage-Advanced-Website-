@@ -19,7 +19,6 @@ const Footer = () => {
           <h4>Last Links</h4>
           <p>Overons</p>
           <p>Social Media</p>
-          <p>Counters</p>
           <p>Contact</p>
         </div>
         <div className='react_footer-links_div'>
