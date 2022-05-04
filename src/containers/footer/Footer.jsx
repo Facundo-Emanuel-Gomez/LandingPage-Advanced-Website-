@@ -30,8 +30,7 @@ const Footer = () => {
         </div>
         <div className='react_footer-links_div'>
           <h4>Get in Touch</h4>
-          <p>Crechterwoord K12 182 DKs</p>
-          <p>3512324702</p>
+          <p>Crechterwoord</p>
           <p>info@payme.net</p>
         </div>
       </div>

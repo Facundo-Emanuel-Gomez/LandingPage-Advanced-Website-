@@ -157,7 +157,11 @@
         line-height: 42px;
     }
 
-   
+    .react_footer-links_div p{
+        display: flex;
+        
+        
+    }
 
     .react_footer-links div{
         margin: 1rem 0;
